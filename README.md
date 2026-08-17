@@ -1,7 +1,4 @@
 # Veronika Nunhardtová - Portfolio and blog
-
-**Live site:** [vnunhardtova.github.io](https://vnunhardtova.github.io)
-
 ---
 
 ## What It Is?
@@ -24,7 +21,7 @@ This is my personal portfolio, where I share my work as an illustrator and book 
 
 ### **View it live:**
 
-Visit [vnunhardtova.github.io](https://vnunhardtova.github.io)
+Visit [vnunhardtova.cz](https://vnunhardtova.cz)
 
 ### **Run it locally with Jekyll:**
 
@@ -69,6 +66,5 @@ I'm Veronika, an illustrator and book editor, I like simple and cheap things. Yo
 **Connect with me:**
 
 - 📸 [Instagram](https://www.instagram.com/vnunhardtova/)
-- ☕ [Ko-Fi](https://www.kofi.com/vnunhardtova)
 
 _Last updated: August 2026_
