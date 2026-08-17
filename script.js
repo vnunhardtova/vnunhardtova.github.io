@@ -217,6 +217,8 @@ function router() {
   renderFeaturedIllustrations();
 
   if (hash === '#bio') {
+    const portfolioSection = document.getElementById('portfolio-home-section');
+    if (portfolioSection) portfolioSection.hidden = true;
     renderBioPage();
     return;
   }
