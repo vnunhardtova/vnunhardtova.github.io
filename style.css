@@ -224,11 +224,11 @@ button:hover {
 
 .hero h1,
 .bio-page h1 {
-    font-family: 'Cinzel', serif;
+    font-family: 'Pirata One', serif;
     font-weight: 700;
     margin: 0 0 8px 0;
     letter-spacing: 0.4px;
-    font-size: 1.45rem;
+    font-size: 1.7rem;
     line-height: 1.15;
     background: linear-gradient(135deg, var(--accent-soft) 0%, #f3ecff 55%, #7f5ad4 100%);
     -webkit-background-clip: text;
