@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <script>
+        document.documentElement.classList.add('theme-preload');
+    </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Veronika Nunhardtová – ilustrátorka, knižní editorka, recenzentka a učitelka českého jazyka. Portfolio, recenze knih a tipy pro psaní.">
+    <meta name="keywords" content="Veronika Nunhardtová, ilustrace, knižní editor, recenze knih, psaní, portfolio, blog">
+    
+    <title>Blog</title>
+    
+    <meta property="og:title" content="Blog">
+    <meta property="og:description" content="Portfolio, knižní recenze a literární analýzy od Veroniky Nunhardtové.">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="/profile.png">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Cormorant+Garamond:wght@400;500;600;700&family=Pirata+One&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+    <script>
+        (function () {
+            try {
+                const savedTheme = localStorage.getItem('theme');
+                const shouldUseDark = savedTheme === 'dark';
+                if (shouldUseDark) {
+                    document.body.classList.add('dark-mode');
+                }
+                requestAnimationFrame(() => {
+                    requestAnimationFrame(() => {
+                        document.documentElement.classList.remove('theme-preload');
+                    });
+                });
+            } catch (error) {
+                document.documentElement.classList.remove('theme-preload');
+            }
+        })();
+    </script>
+    
+    <div class="page-wrapper">
+        <aside class="sidebar">
+            <header class="hero">
+                <button id="theme-toggle" class="theme-toggle" aria-label="Přepnout tmavý/světlý režim">
+                    <span class="theme-icon">🌙</span>
+                </button>
+                <div class="profile-image">
+                    <a href="/" class="home-link-nav" aria-label="Návrat na hlavní stránku" onclick="window.location.href='/'; return false;">
+                        <img src="/profile.png" alt="Veronika Nunhardtová" class="avatar">
+                    </a>
+                </div>
+                
+                <h1>Veronika Nunhardtová</h1>
+                <p class="tagline">Ilustrátorka • Knižní editorka • Recenzentka</p>
+            </header>    
+        
+            <section class="about">
+                <h2>O mně</h2>
+                <p>Knihy jsou mou celoživotní láskou, která mě dovedla až k doktorskému studiu na katedře bohemistiky UJEP. Věnuji se <b>editační činnosti, recenzím a ilustracím, orientuji se zejména na fantastiku a dětskou literaturu</b>. Na těchto stránkách naleznete mé <b>portfolio</b> a <b>blog o knihách a psaní</b>. <b>Mé ilustrace jako potisky na nejrůznějších předmětech</b> si můžete prohlédnout a koupit pod odkazem <b>RedBubble</b>, pokud byste chtěli <b>podpořit mou tvorbu, objednat ilustraci či koupit elektronický produkt</b>, můžete tomu tak učinit po kliknutí na <b>Ko-Fi</b>.</p>
+                <div class="sidebar-links-row">
+                    <a href="/#bio" class="bio-link">Životopis →</a>
+                    <a href="/#portfolio" class="bio-link secondary-link">Portfolio →</a>
+                </div>
+            </section>
+
+            <section class="links-section" aria-labelledby="links-title">
+                <h2 id="links-title">Kde mě najdete</h2>
+                <div id="links" class="links"></div>
+            </section>
+        </aside>
+
+        <main class="main-content">
+            <section class="blog-page">
+  <div class="blog-header-row">
+    <div>
+      <p class="eyebrow">Blog & inspirace</p>
+      <h2>Knihy, psaní a tvorba</h2>
+    </div>
+  </div>
+
+  <div class="blog-posts">
+    
+      <article class="blog-card" data-slug="existencialismus-esej">
+        
+        
+        
+
+        <div class="blog-card-top">
+          <span class="blog-tag">analýzy-a-eseje</span>
+          <span class="blog-meta">17.08.2026</span>
+        </div>
+        <h3><a href="/blog/existencialismus-esej/">Existencialismus: O svobodě bytí, úzkosti a autenticitě</a></h3>
+        <p>Kniha V existencialistické kavárně od Sarah Bakenwellové byla označena za jednu z nejlepších deseti knih roku 2016 podle The New York Times. Její český překlad byl vyhotoven roku...</p>
+        <div class="blog-card-bottom">
+          <span>5 min čtení</span>
+          <a class="blog-read-more" href="/blog/existencialismus-esej/">Číst dál</a>
+        </div>
+      </article>
+    
+  </div>
+</section>
+
+
+            <footer class="site-footer">
+                <p>&copy; 2026 Veronika Nunhardtová. Všechna práva vyhrazena.</p>
+            </footer>
+        </main>
+
+        <aside class="sidebar-right">
+            <section class="widget featured-illustrations-widget">
+                <h3>Vybrané ilustrace</h3>
+                <div id="featured-illustrations" class="featured-illustrations"></div>
+            </section>
+        </aside>
+    </div>
+
+    
+    <div id="cursor-particles"></div>
+
+    <div id="image-modal" class="image-modal" hidden>
+        <div class="modal-overlay" onclick="closeImageModal()"></div>
+        <div class="modal-content">
+            <button class="modal-close" onclick="closeImageModal()">✕</button>
+            <img class="modal-image" src="" alt="">
+            <div class="modal-info">
+                <h2 class="modal-title"></h2>
+                <p class="modal-description"></p>
+            </div>
+        </div>
+    </div>
+    
+    <button id="scroll-to-top" class="scroll-to-top" aria-label="Scroll to top">↑</button>
+
+   
+    <script>
+        if ('scrollRestoration' in history) {
+            history.scrollRestoration = 'manual';
+        }
+        window.scrollTo(0, 0);
+        document.addEventListener('DOMContentLoaded', function () {
+            window.scrollTo(0, 0);
+        });
+    </script>
+
+    
+    <script src="/data/links.js"></script>
+    <script src="/data/bio.js"></script>
+    <script src="/data/gallery.js"></script>
+    <script src="/script.js"></script>
+</body>
+</html>
