@@ -1,0 +1,113 @@
+---
+layout: default
+---
+
+<div id="bio-page" hidden></div>
+
+
+<section id="blog-page" class="blog-page">
+    <div class="blog-header-row">
+        <div>
+            <p class="eyebrow">Blog & inspirace</p>
+            <h2>Knihy, psaní a tvorba</h2>
+        </div>
+        <div class="blog-search-wrap">
+            <label class="sr-only" for="jekyll-blog-search">Vyhledat v blogu</label>
+            <input id="jekyll-blog-search" type="search" placeholder="Hledat v blogu..." aria-label="Vyhledat v blogu" />
+        </div>
+    </div>
+
+    
+    <div id="jekyll-blog-category-filters" class="blog-filters" aria-label="Filtry blogu">
+        <button class="jekyll-filter blog-filter active" data-filter="all">Vše</button>
+        <button class="jekyll-filter blog-filter" data-filter="analýzy-a-eseje">Analýzy a eseje</button>
+        <button class="jekyll-filter blog-filter" data-filter="jazyk-a-styl">Jazyk a styl</button>
+        <button class="jekyll-filter blog-filter" data-filter="recenze">Recenze</button>
+        <button class="jekyll-filter blog-filter" data-filter="tvorba">Tvorba</button>
+    </div>
+
+   
+    <div id="jekyll-blog-posts" class="blog-posts">
+        {% for post in site.posts %}
+        <article class="jekyll-card blog-card" data-category="{{ post.categories.first | slugify }}" data-title="{{ post.title | downcase }}" style="background: var(--surface-2); padding: 2rem; border-radius: 1rem; margin-bottom: 2rem;">
+            
+          
+            <div class="jekyll-content-data sr-only">{{ post.content | strip_html | downcase }}</div>
+
+            <p class="eyebrow" style="text-transform: uppercase; font-size: 0.8rem; letter-spacing: 2px;">{{ post.categories.first | replace: '-', ' ' }}</p>
+            <h3 style="margin-top: 0.5rem;"><a href="{{ post.url | relative_url }}" style="text-decoration: none;">{{ post.title }}</a></h3>
+            
+            <div class="blog-post-meta" style="font-size: 0.9rem; opacity: 0.8; margin-bottom: 1rem;">
+                <span>{{ post.date | date: "%-d. %-m. %Y" }}</span>
+                <span style="margin-left: 10px;"></span>
+                <span style="margin-left: 10px;">
+                    {% assign words = post.content | number_of_words %}
+                    {% assign minutes = words | divided_by: 200 %}
+                    {% if minutes == 0 %}{% assign minutes = 1 %}{% endif %}
+                    cca {{ minutes }} {% if minutes == 1 %}minuta{% elsif minutes < 5 %}minuty{% else %}minut{% endif %} čtení
+                </span>
+            </div>
+
+            <p>{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+            <a href="{{ post.url | relative_url }}" class="inline-link" style="margin-top: 1rem; display: inline-block;">Číst článek →</a>
+        </article>
+        {% endfor %}
+    </div>
+</section> 
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const searchInput = document.getElementById('jekyll-blog-search');
+    const filterBtns = document.querySelectorAll('.jekyll-filter');
+    const cards = document.querySelectorAll('.jekyll-card');
+
+    function filterPosts() {
+        if (!searchInput) return;
+        const searchTerm = searchInput.value.toLowerCase();
+        const activeBtn = document.querySelector('.jekyll-filter.active');
+        const activeCategory = activeBtn ? activeBtn.dataset.filter : 'all';
+
+        cards.forEach(card => {
+            const title = card.dataset.title || '';
+            const category = card.dataset.category || '';
+            
+            const contentContainer = card.querySelector('.jekyll-content-data');
+            const fullContent = contentContainer ? contentContainer.textContent : '';
+            
+            const matchesSearch = title.includes(searchTerm) || fullContent.includes(searchTerm);
+            const matchesCategory = activeCategory === 'all' || category === activeCategory;
+
+            if (matchesSearch && matchesCategory) {
+                card.style.display = 'block';
+            } else {
+                card.style.display = 'none';
+            }
+        });
+    }
+
+    if (searchInput) {
+        searchInput.addEventListener('input', filterPosts);
+    }
+
+    filterBtns.forEach(btn => {
+        btn.addEventListener('click', function() {
+            filterBtns.forEach(b => b.classList.remove('active'));
+            this.classList.add('active');
+            filterPosts();
+        });
+    });
+});
+</script>
+
+
+<section id="blog-post-detail" class="blog-post-detail" hidden></section>
+
+
+<section id="portfolio-home-section" aria-labelledby="portfolio-title" class="blog" hidden>
+    <h2 id="portfolio-title">Portfolio</h2>
+    <div id="portfolio-content" class="portfolio-content">
+        <div id="portfolio-filters" class="portfolio-filters"></div>
+        <div id="portfolio-grid" class="portfolio-grid"></div>
+    </div>
+</section>

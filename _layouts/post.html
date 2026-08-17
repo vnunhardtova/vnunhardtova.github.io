@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<article class="blog-post-article">
+  <div class="blog-post-header" style="--blog-accent: {{ page.accent | default: 'linear-gradient(135deg, #8b5cf6 0%, #c084fc 100%)' }};">
+    
+    <h2>{{ page.title }}</h2>
+    
+    <div class="blog-post-meta">
+      <span>{{ page.date | date: "%d.%m.%Y" }}</span>
+      {% assign words = content | number_of_words %}
+      {% assign minutes = words | divided_by: 200 | ceil %}
+      <span>{{ minutes }} min čtení</span>
+    </div>
+  </div>
+
+  <div class="blog-post-body">
+    {{ content }}
+  </div>
+
+  <div class="blog-post-actions">
+    <a class="back-button blog-back-button" href="{{ '/blog/' | relative_url }}">← Zpět na přehled</a>
+  </div>
+</article>

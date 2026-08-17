@@ -1,0 +1,161 @@
+---
+layout: post
+title: "Existencialismus: O svobodě bytí, úzkosti a autenticitě"
+date: 2026-08-17
+categories: [analýzy-a-eseje]
+tags: ["existencialismus", "esej", "Camus", "Sartre", "fenomenologie", "Bakenwellová", "Husserl", "V existencialistické kavárně"]
+excerpt: "Kniha V existencialistické kavárně od Sarah Bakenwellové byla označena za jednu z nejlepších deseti knih roku 2016 podle The New York Times. Její český překlad byl vyhotoven roku 2019 a v roce 2021 jej vydalo nakladatelství Host Brno. Tato poměrně skromně laděná kniha s cigaretou a meruňkovým koktejlem na obálce představuje silně propracovaný vhled do vzniku existencialismu, jeho autorů a literárně-historického kontextu s jemnými komentáři autorky, jak ona sama jednotlivé filozofické myšlenky vnímala, když se existencialismem, fenomenologií a autorskou tvorbou filozofů zabývala."
+---
+Kniha *V existencialistické kavárně* od Sarah Bakenwellové byla označena za jednu z nejlepších deseti knih roku 2016 podle The New York Times. Její český překlad byl vyhotoven roku 2019 a v roce 2021 jej vydalo nakladatelství Host Brno. Tato poměrně skromně laděná kniha s cigaretou a meruňkovým koktejlem na obálce představuje silně propracovaný vhled do vzniku existencialismu, jeho autorů a literárně-historického kontextu s jemnými komentáři autorky, jak ona sama jednotlivé filozofické myšlenky vnímala, když se existencialismem, fenomenologií a autorskou tvorbou filozofů zabývala.
+
+Já osobně jsem si téma existencialismu toto dílo jako hlavní zdroj pro svou esej zvolila proto, že od roku vydání jsem knihu měla doma, ale po přečtení pár stran jsem se cítila ztracená a ničemu nerozuměla. Maryanne Wolfová by mohla říci, že jsem měla pozornost skákajícího lučního koníka. Existencialismus mě již dříve lákal, zejména ten literární, přesto jsem plně nechápala, o co vlastně jde a neuměla jej vysvětlit. V tomto textu bych chtěla obsáhnout ty myšlenky, co na mne zapůsobily nejvíce, vytvořit jejich základní shrnutí a konfrontovat je s mou vlastní fenomenologickou zkušeností.
+
+### Fenomenologie a odlišné vnímání
+
+Fenomenologie je filozofický směr a metoda, která se zabývá zkoumáním jevů (tzv. fenoménů), tak jak je vnímáme a prožíváme. Za jejího zakladatele je považován Edmund Husserl, německý filozof moravského původu a matematik. Spolu s Franzem Kafkou a Gustavem Mahlerem patří mezi naše nejznámější židovské osobnosti narozené na území Čech a Moravy. Jeho židovský původ měl později nepříznivý vliv na přijetí jeho tvorby ze strany nacistického Německa a odcizení s Heideggerem, který byl považován za génia své doby a Husserla, jakožto svého učitele, časem zastínil.   
+
+Sám Husserl fenomenologii popsal jako „novou popisnou metodu a z ní vzešlou apriorní vědu, jež se má stát hlavním nástrojem pro přísně vědeckou filozofii. Její důsledné uplatnění by mělo umožnit metodickou reformu všech věd.“[1] Za ústřední heslo by se dalo považovat „k věcem samým“ – což označovalo potřebu opustit teoretické konstrukce s předsudky a vrátit se k čisté, původní a vlastní zkušenosti. Smyslem této vědy bylo tedy poskytnout pevný základ pro všechny ostatní vědy na základě zkoumání základů poznání a zkušenosti.[2]
+
+Mezi základní metody patří epoché (fenomenologická redukce) spočívající v metodickém dočasném zdržení se úsudku o existenci vnějšího světa, platnosti vědeckých teorií a zejména vlastních předsudků. Smyslem epoché nebylo popřít vědecké poznání a kolektivní poznání, nýbrž se zaměřit na analýzu čisté zkušenosti a struktur vědomí. Další je intencionalita, tuto myšlenku Husserl převzal od Franze Brentana, svého učitele, které ve svém díle Psychologie z empirického hlediska zformuloval myšlenku, že bychom k mysli měli přistupovat dle jejích intencí, čímž nešlo o význam vědomého úmyslu, ale o latinské in-tendo – vztahovat se k něčemu, směřovat někam. Nelze totiž myslet bez toho, aniž by byly naše myšlenky o něčem nebo na něco – mysl se totiž vždy váže k něčemu – má svoji intencionalitu. Mysl, která nic nezažívá, nic si nepředstavuje a o ničem nespekuluje nelze za mysl vůbec označit.
+
+Fenomenologové byli speciální v tom, že se zabývali samotnou podstatou věcí a pojmenovávali věci, které se zdají natolik samozřejmé, že jim ostatní ani nevěnují pozornost. Já samotná jsem si fakt, že se myšlenky vždy k něčemu či někomu váží, explicitně neuvědomovala, přitom to je nadmíru logické. V okamžik, kdy přestaneme na cokoliv myslet – jsme mrtví, naše existence skončila, ačkoliv cílem meditací a jiných relaxačních praktik je „na nic nemyslet“, nezažila jsem stav, kdy by mysl zůstala absolutně prázdná, protože v takových chvílích se ubírá k tomu, co vlastně to nic a prázdno představuje.
+
+Hlavním cíl fenomenologie lze zredukovat na jednoduché přikázání – popište jevy. K tomu je zaveden další pojem – fenomén – označení pro věc, objekt či událost na základě toho, jak ji vnímáme skrze svou vlastní zkušenost, která se nemusí nutně vztahovat k realitě a obecné objektivitě.
+
+Z fenomenologického hlediska bude popis i těch nejtriviálnějších předmětů u každého jiný a nemusí vůbec dojít ke shodě. Vznikl tak filozofický směr, který umožnil každému stát se filozofem. Základní kámen, který vyvolal u mladých lidí novou vlnu inspirace.
+
+Jedním z nich byla skupinka mladých filozofů sedící v kavárně popíjející meruňkový koktejl. Raymond Aron, Jean-Paul Sartre a Simone de Beauvoirová – nejde o žádná jména neznámých lidí. Minimálně Sartre by měl být znám všem, co absolvovali středoškolské vzdělání.
+
+„Vidíš, mon petit camarade, když jsi fenomenologem, můžeš mluvit o koktejlu, jako je tenhle, a bude to filozofie!“  řekl Aron Sartrovi a dalo by se říci, že tím okamžikem se začala psát historie jednoho z nejvýznamnějších směrů 20. století – existencionalismu,[3] protože se stala semínkem v úplně novém záhonu myšlenek s nimiž toto trio a mnozí další přišli.  
+
+Není se čemu divit, taková idea se mi zdá revoluční i v dnešní době. Filozofie bývá vnímána jako učená věda pro milovníky Řecka, zahloubané mudrce, které baví hádat se o jsoucnu a komplikování náhledu na to, jak vlastně život funguje. Nevstoupíš dvakrát do téže řeky, existuje vůbec nějaká řeka? Fenomenologové ale otevřeli brány a do zdánlivě uzavřené skupiny intelektuálů a myslitelů pozvali všechny, aby přispěli do diskuse svými vlastními fenomény. A jediné, co měli dělat, bylo soustředit se na vlastní vnímání.
+
+Takto napsáno, působí na mne fenomenologie skoro utopicky mile – vysněný svět, kde každý říká, co cítí a je za to bez rozdílu přijímán, což by bylo hrubé zjednodušení. Tak to totiž nebylo. Taková idea popírá totiž existenci ega. Spolu s autentickým vnímáním přichází nevyhnutelně také potřeba si svoji jedinečnost a osobnost bránit. Většina fenomenologů proto vedla tvrdé pře o tom, kdo vlastně vnímá správně a své myšlenky formuluje lépe. A pokud mezi nimi nepanovala shoda, i dlouholetá přátelství se v postupném radikalismu rozpadala v prach.
+
+Častým takovým důvodem byla politika. Sartre, de Beauvoirová a mnozí další byli přesvědčeni, že nemohu udržovat přátelský kontakt s někým, s kým nesdílí stejné politické přesvědčení. U Heideggera, který se později hlásil k nacismu, ztrátu přátelství s ostatními poměrně chápu, přestože s ní nesouzním. Paradoxně na mě více zapůsobilo vyjádření de Beauvoirové při ukončování komunikace s Koestlerem.
+
+Koestler si přál i přes neshody zůstat přáteli, ale de Beauvoirová argumentovala jinak: „Jako filozof si jistě uvědomuješ, že každý z nás při pohledu na morceaux de sucre, kostku cukru, vidí zcela jiný objekt. Naše morceaux de sucre se od sebe liší tak, že už nemá smysl, abychom se dál setkávali.“
+
+Radikálnost těchto názorů se může zdát zbytečná, možná až malicherná, ale nezůstalo tomu tak dodnes? Společnost má neustálé tendence se dělit na ostrovy, které nemohou pospolu existovat. Alespoň tak se dané skupiny prezentují. Volili jste Babiše? Tak to s vámi nemám řeč. Oh, vy jste proti potratům? Jezdíte elektroautomobilem? Ať už půjdeme do nejužších zájmových skupin, vždy se najdou dvě protichůdné strany, které se neustále hádají a nesnesou se. Jste komunista, nebo demokrat? V poválečných letech se odpověď na tuto otázku zdála životně důležitá, protože lidé měli strach. Druhá světová válka a použití atomové bomby najednou vynesla na povrch možnost, že se lidstvo dokáže zničit samo a má k tomu dokonce prostředky. Hrozba byla reálná. A lidé se báli, takže se pokoušeli najít takový politický systém, který by tento scénář jednoznačně zamezil. Černobílé vidění se dá pochopit, ale je správné?
+
+Může např. takové politické smýšlení mít vliv na charakter jedince? A to dokonce takový, že převáží vše ostatní? Jako první mne napadá ten nejextrémnější příklad – Heidegger a nacismus. Jde o poměrně silný konflikt racionality a morálky. Heidegger bezpochyby patří k největším filozofům své doby, často se o něm mluví jako o géniovi a jeho otázky bytí a ontologie ovlivnily Sartra i mnohé další velikány svého oboru, ale… veřejně se hlásil k nacismu. Jeho ideologie bylo extrémní, nadřazená a způsobila nepředstavitelné utrpení pro miliony lidí. Je proto správné odsoudit jeho dílo?
+
+Vzhledem k tomu, že dnes se o něm pořád učí, dalo by se říci, že rozum oproštěný od citů zvítězil, ale vždy se objeví temná kaňka jeho osobnosti a víry, která vše zahaluje. Daleko méně extrémní, zato současný, je příklad J. K. Rowlingové, která se na sociálních sítích opakovaně vyjádřila způsobem, který se dotkl lidí, jež prošli tranzicí. Sága o Harrym Potterovi patří k těm nejúspěšnějším a nejmilovanějším po celém světě, ale po této kauze mnohým čtenářům zhořkla. Mnozí ji odmítají číst. Knihy, které do té doby milovali, začali nenávidět. Jak k tomu vlastně přistupovat? Pokud vás autor zklame, je automaticky špatné i jeho dílo?  Je Harry Potter snad viteálem duše své autorky, takže musí být zničen spolu s ní?
+
+Text knih zůstává pořád stejný, nic se nezměnilo. Příběhy z Bradavic se nijak obsahově neliší z doby před kauzou i po kauze. Je tedy nemorální mít je rád pořád stejně? Odpověď by měla zůstat v souladu se zásadami fenoménu i existencionalismu – pokud je pro někoho Harry Potter ztělesněním autorky a jejích názorů, mělo by být respektováno, že jej odmítá číst. Stejné právo mají mít ti, pro které je symbolem dětství a příjemných chvil. Je v pořádku odmítat Heideggerovu tvorbu, pokud je pro nás jeho nacistická ideologie nepřijatelným překročením mezí, ale pro ty, co to dovedou i chtějí rozlišit, by měla zůstat jeho tvorba otevřená, protože nabízí mnohé poznatky.
+
+Obdobný princip lze vztáhnout i k případu Koestlera. Jako tvůrci vlastní reality určujeme, kdo v našem životě bude přítomen a do koho chceme investovat svůj čas a energii.
+
+### Existencionalismus a svoboda volby
+
+Pojetí existencionalismu se liší dle filozofa, jedná se o směr poměrně těžko uchopitelný a polapitelný do jednoduché definice. Jak bylo řešeno výše, jeho kořeny pochází ve fenomenologii a odtrhnout jedno od druhého pomalu nelze.
+
+Existencialisté se zabývali individuální a konkrétní lidskou bytostí – nesledovali společnost jako takovou, zajímala je autenticita a jedinečnost. Zároveň také lidskou existenci považovali za odlišnou od jakékoliv jiné, mezitím co ostatní předměty jsou tím, čím jsou a nic více. Dle existencionalistů jsme jako člověkem tím, kým se rozhodneme stát – utváří nás vlastní svobodná volba, což je jedinečná vlastnost člověka. Zvířata mnozí filozofové existencionalismu považovali za věci, neschopné vlastní vědomé volby čili nesvobodné, což je názor, který nesdílím a současné vědecké poznatky nasvědčují tomu, že i rostliny mají vlastní vědomí a schopnost konat.  
+
+Z faktu, že nás utvářejí naše vlastní rozhodnutí, plynula také další zákonitost – pokud jsme jedinými tvůrci svého života, osudu, a určujeme své směřování, neseme plně zodpovědnost za své volby, potažmo život, což ruku v ruce vytváří úzkost, jež je od lidské existence neoddělitelná. Jaká volba je ta správná? Nepřeberné množství možností toho, co můžeme zvolit, se sebou nese riziko, že se svým rozhodnutím následně nebudeme spokojeni a zjistíme, že jsme volili špatně či budeme za své jednání souzeni druhými.
+
+Z přirozenosti člověka vyplývá, že má rád snadná rozhodnutí, nevyžívá se v nejistotě a má tendenci zůstávat v tzv. komfortní zóně. Pokud přenecháme zodpovědnost za naše rozhodnutí na někom jiném, výběr možností se zúží a případný nezdar se dá svalit na druhého. Podobně je to s řízením se normami nějaké skupiny či náboženství – to nám dodává sadu pravidel, příručku, jak se máme správně chovat.
+
+Existencionalismus nám ale říká, že volba je naše. Jean-Paul Sartre líčil setkání se svým bývalým studentem, který jej žádal o radu. V roce 1940 mu zemřel bratr ve válce, otec kolaboroval a opustil rodinu. Zůstal sám se svou matkou. Zbyl jí jenom on, jenže toužil po tom, aby se mohl dostat do Anglie, kde by mohl bojovat proti nacistům. Chtěl se tak postavit otci, pomstít bratra a pomoci osvobodit svou vlast. Jenže jeho matka by tak zůstala sama. Co by tedy měl dělat? Nemohl najít správnou odpověď u sebe ani druhých, takže se zkusil zeptat Sartra. Ten mu odpověděl: „Jste svobodný, volte. Tedy přemýšlejte. V tomto světě se nemůžete spoléhat na to, že vám někdo dá jasné znamení. Žádná ze zavedených autorit vás nezbaví tíhy svobody. Můžete co nejpečlivěji zvážit všechny morální či praktické stránky, ale nakonec budete muset sám skočit do prázdna a něco udělat – a je na vás, co to něco bude.“[4]
+
+Existencialisté a fenomenologové v jedné osobě, podobně jako Sartre, nenabízeli žádná jednoduchá pravidla, jak se se svou svobodou vyrovnat, nýbrž byli přesvědčeni, že na správné odpovědi nás navede popis vlastních zkušeností, který nám pomůže pochopit vlastní existenci a tím pádem žít autentičtější život.[5]
+
+Za jednoho z prvních existencialistů patřil Søren Kierkegaard, ten zosobňoval takřka existenční vášeň. „Abstrakce nemá vlastní zájem, ale pro každého, kdo existuje, je největším zájmem existence.“ Byl někým, kdo miloval rozruch a obrazně i doslova se vyžíval v tom, že vyváděl ostatní z rovnováhy. Mne osobně nejvíce zaujala jeho konfrontace Descartova *Cogito ergo sum* (Myslím, tedy jsem). Podle Kiergaarda to bylo totiž obráceně – prvotní je lidská existence, ta vytváří výchozí bod všeho, co děláme. Existence je aktivní – žijeme ji a volíme si ji, což předchází jakémukoliv výroku, co o sobě můžeme pronést. Hlavně naše existence je osobní, naše, což se vymyká Descartovu obecnému „já“.
+
+„Úzkost je závrať ze svobody,“ shrnoval jednu ze základních myšlenek existencionalismu Kiergaard a navazovali na něho mnozí další. Například Friedrich Nietzsche.
+
+„Studium genealogie naší morálky nám nepomůže uniknout před námi samými ani se stát lepšími, ale umožní nám jasněji nahlédnout vlastní iluze, a tedy vést plnější život. V této představě není žádný Bůh, protože lidé, kteří Boha stvořili, jej zabili. Nyní je to jen o nás. Žít máme nikoli tak, že se slepě odevzdáme víře, nýbrž se oddáme vlastnímu životu a v každém okamžiku jej povedeme pozitivním způsobem přesně takový, jaký je, aniž bychom si přáli cokoli změnit a nosili v sobě zlostný odpor k druhým či k vlastnímu osudu.“ Nietzsche nebyl jenom původním existencialistou, ale také filolog a byl zastáncem myšlenky, že nejsou potřeba vysoké morální či ideologické ideály, ale kritická podoba kulturní historie – genealogie, která pomůže objasnit naši podstatu, motivace našeho jednání a příčinu, proč takoví jsme.[6]
+
+Myšlenky těchto dvou mužů – Nietzscheho a Kiergaarda, pomohly zformulovat nové pojetí lidské existence jako volby. Rovněž byli přesvědčeni, že filozofie není jenom profese, nýbrž životem samým, životem jednotlivce.
+
+Všechny tyto myšlenky podporovaly vzdor u odvážnějších a úzkost u všech, kterým na něčem záleželo. A zůstává tomu dodnes. Mezitím, co některé filozofické postoje a myšlenky zastarávají, existencialisté dle mého názoru přišli s něčím, co je univerzální a nesmrtelné.
+
+Dokud jsme živi, činíme volby a jediní, kdo za ně nesou plnou zodpovědnost jsme my sami. Žádná jiná bytost s námi nebude celý život a nebude nést následky tak dlouho. Jistě, naše rozhodnutí mohou ovlivnit druhé, přímo i nepřímo. Neměli bychom k nim přistupovat nezodpovědně a považovat svůj mikrosvět za jediný podstatný, přesto je jako v příběhu Sartra bývalého studenta na nás, jakou cestou se rozhodneme jít. Chceme zůstat v zaměstnání, které nás netěší s jistým příjmem, nebo upřednostníme nejistější kariérní cestu, která povede k vyššímu uspokojení a bude nás naplňovat? Je lepší vrabec v hrsti, nebo holub na střeše?
+
+Výsledek každého rozhodnutí je naše odpovědnost. Mnozí mají tendenci nevidět řešení a tvrdit, že neměli žádnou volbu. Neučit volbu je také rozhodnutí. Mohli bychom si zde pomoci tramvajovým dilematem. Vlak míří k místu, kde by usmrtil čtyři lidi, nebo můžeme přehodit výhybku, kde by usmrtil jednoho člověka. Odejít a vědomě nic neudělat, ať se o to postará někdo jiný, je taktéž volba.
+
+Pokud víme, že se učitel chová nevhodně ke svým žákům, můžeme situaci začít řešit, nebo ji úmyslně přehlížet – ignorování problému nepomůže k jeho odstranění, nezmizí, a my jsme se rozhodli, že se jeho vyřešení nezúčastníme, čímž jej prakticky podporujeme. Pasivní volba je taktéž volba.
+
+Podobně tomu je i u prokrastinace, chronického odkládání nepříjemných či náročných úkolů na později. Prokrastinující jedinec se místo činnosti, těžkého rozhodnutí či jiné pro něj nepříjemné věci věnuje nedůležitým činnostem s malou prioritou. Toto oddalování ale nesnižuje stres, naopak vede k negativním pocitům a může vést až k depresím, pokud se překlene do chronického stádia.[7] Z toho můžeme odvodit, že existencialisté velice dobře odhadli přítomnost úzkosti ze svobodného života. Z druhé strany ostatní naváděli k tomu, aby své volby učinili, stáli si za nimi a přistupovali k nim zodpovědně. Jejich životy a tvorba toho byly ukázkové příklady.
+
+Sartre, Camus, de Beauvoirová a mnozí další s téměř zuřivou naléhavostí komentovali současné dění, bojovali proti tomu, co považovali nesprávné, pokud s někým nesouhlasili, nevyhýbali se případným konfliktům a vždy se ubírali vpřed. V případě, že se jejich názor změnil, nelpěli na něm a nedrželi se jej v očích veřejnosti, aby jej nebagatelizovali. Byli odvážní, hluční a autentičtí.
+
+Znovu mi v souvislosti s touto myšlenkou přichází vzpomínka na způsob, jakým uměli ukončovat přátelství s lidmi, s nimiž už nesdíleli stejné přesvědčení. Jejich síta byla nemilosrdná, ale nikoliv krutá. Nepřetvařovali se a nehráli si na idylické vztahy, pokus došlo k rozchodu cest. Myslím, že z toho by si mnozí mohli vzít ponaučení.
+
+### Existencialismus a hledání pravdy
+
+Doba vzniku existencialismu patřila k asi nejdynamičtějším a nejdrastičtějším v rámci filozofických směrů. Společnost byla po první světové válce, ta druhá se neodvratitelně blížila, i když málokdo si zpočátku dovedl přiznat, že by nacismus mohl představovat skutečné riziko. Měl to být přeháňkový mrak, který se změnil v tajfun.
+
+„Od této chvíle musíme vždy zohlednit vědomí toho, že jsme schopni sebezničení, kdykoliv se nám zamane, společně s celými svými dějinami a zřejmě také životem na Zemi vůbec. Nebrání nám v tom nic jiného než svobodná volba. Pokud chceme přežít, musíme se rozhodnout pro život,“ napsal Sartre v eseji *Konec války* (1945) krátce po použití atomové bomby v Hirošimě. Do té doby nebyl strach z ukončení veškerého života na Zemi reálný, chyběl prostředek a způsob. Najednou lidstvo dokázalo, že pro to nástroje má, a dokonce je ochotno jej použít. Z života se stala volba.
+
+Není divu, že Studená válka a souboj demokracie s komunismem byl později tak vyhraněný. Bylo potřeba učinit rozhodnutí, které by znamenalo co nejlepší život pro všechny. Představa marxismu, ideálního světa, kde je všechno všech a po několika razantních úpravách vznikne ráj na zemi, byla příliš lákavá a nadchla mnohé. Mimo jiné i Sartra.
+
+Situace po druhé světové válce připomínala rozbombardovanou zahradu, která potřebovala obnovit a také bylo nutné ji zbavit plevele. Zejména v souvislosti s pozůstatky nacismu a lidmi, kterými se během války dopustili zvěrstev.
+
+„Nikdy se nestanu jedním z těch, ať je to kdokoliv, kdo si zavdává s vražděním,“ napsal Albert Camus ve své eseji *Ani oběti, ani kati*.[8] A tohoto přístupu se držel až do konce svých dní, kdy zemřel ve věku 46 let při autonehodě.
+
+U Sartra a de Beauvoirové se situace vyvíjela jinak. Z odporu vůči násilí se postupně přesunuli k názoru, že odmítnout v rámci vyššího dobra učinit drastické rozhodnutí, je slabošství. Byli příznivci poprav a exemplárních trestů. Cena jednoho života proti milionu dalším jim připadala správná a považovali za nutné si někdy zašpinit ruce ve jménu lepších zítřků. Ve svých esejích a filozofických úvahách řešili různé teoretické otázky.
+
+Mne osobně zaujala otázka Stephena Spendera, anglického básníka, kterou položit Sartrovi. Zajímalo ho, jestli by si přál v případě nespravedlivého uvěznění komunistickým režimem, aby se jej přátelé pokusili dostat ven i za cenu toho, že bude poškozena pověst komunismu, nebo jestli by přijal nezasloužený trest ve jménu vyššího dobra. Sartre si zvolil dobrovolný trest.
+
+Spender byl jeho odpovědí zklamaný. „Domnívám se, že jediné, za co kdy stálo bojovat, byla obrana nespravedlivě uvězněných.“ To vedlo Sartra k uvědomění, že v moderní době možná není nespravedlnost vůči jednomu člověku tak důležitá.[9]
+
+Zde bych se chtěla zastavit, jelikož tento postoj zůstává společností zachován do dnes, akorát již není důležité vyšší dobro společnosti, ale kapitál. Ve vidině zisku jsou mnozí ochotni zajít za hranici morálky (i když ty jsou obtížně vztyčitelné) a obětovat druhé. Prodejci nemají problém vědomě prodávat produkty, které mohou mít negativní vliv na zdraví či životní prostředí. Čím dál častěji dochází k vytváření falešných odkazů, e-shopů a zázračných léků, které parazitují na neznalosti druhých. Pro nejlevnější olej, palmový, se vypalují kusy pralesů na organismy nehledě. Masové výlovy ryb, prodeje osobních dat, manipulace s názory veřejnosti… obětování něčeho či někoho pro svůj vlastní profit můžeme sledovat úplně všude.
+
+Není důležité, aby článek byl pravdivý a objektivní, čím bulvárnější a extrémnější, tím více má prokliků a vynáší větší zisk z reklam na zázračné masti po nichž do rána zmizí veškerý přebytečný tuk, vyhladí se vrásky a narostou vlasy. Naše odpověď na dilema oběti někoho v rámci něčeho (vyšší dobro, zisk, sláva…) je zřejmá.
+
+Tramvajové dilema, které Sartre řešil nakonec dospělo k překvapivému řešení, které tak trochu upadlo v zapomnění. Pokud nevíme, jaká je pravda a co je správné. Ptejte se toho nejméně privilegovaného.
+
+Tímto jednoduchým způsobem eliminoval diskriminaci a útlak nejslabších, kterých bývá povětšinou nejvíce. Tento přístup Sartre popsal na konci své eseje *Komunisté a mír*. Pokud nevíme, jaká je pravda, je třeba hledat odpověď podle toho, jak vypadá očima toho nejméně privilegovaného či toho, s kým je zacházeno nejvíce nespravedlivě. Jejich verze událostí je ta správná a tento pohled lze považovat za samotné kritérium pravdy – za způsob určení člověka i společnosti. Pokud něco není pravda z pohledu nejméně privilegovaného, potom to není pravda.[10]
+
+Tento přístup je univerzální a dá se vztáhnout na cokoliv. Na otázku rasové diskriminace nám nejlépe odpoví ten, kdo ji sám prožívá, nikoliv privilegovaní odborníci, jež jej jenom studovali. Ani ten nejlepší odborník na gender-studies nám autenticky neřekne to, co prožívá takový transsexuální muž, pokud nemá vlastní zkušenost. Intaktní člověk nemůže plně pochopit vnímání člověka s poruchou autistického spektra, čili by neměl hodnotit, jak autismus ovlivňuje jeho život a bagatelizovat jeho vyjádření. Následujícím způsobem můžeme pokračovat dál a dál. Sartre nám dal jednoduchou radu, jak hledat správné odpovědi a u koho.
+
+### Charta 77 a odkaz fenomenologie u nás
+
+Husserl, zakladatel fenomenologie, pocházel z Moravy. Jeho spolužákem a přítelem byl Tomáš G. Masaryk a dalo by se říci, že fenomenologie měla své místo v základech naší republiky. A zvláštní roli v jejích dějinách si i udržela. V šedesátých a sedmdesátých letech byl největší tváří české fenomenologie Jan Patočka, který byl Husserlův žák a studoval rovněž s Heideggerem. Jeho cílem bylo vytvořit z Karlovy univerzity centrum fenomenologického bádání, což se po roce 1948 setkalo s odporem ze strany komunistů. Jeho filozofie byla v rozporu s tím, co uváděla marxistická teorie, načež roku 1972 mu bylo znemožněno přednášet na akademické půdě.
+
+Patočka se nevzdal a vedl soukromé přednášky u sebe doma. Filozofii učil i v rámci pražských divadlech, kde jej poslouchali herci a spisovatelé. Mezi nimi i Václavu Havlovi.
+
+Patočka vytvořil vlastní ideu „solidarity otřesených“, která měla spojovat všechny, kteří zažili nějakou významnou historickou událost, jež jimi otřásla a donutila je přemýšlet nad rámec každodennosti. Takové pouto mělo přejít ve vzpouru, čímž odkrýval rebelistickou tendenci fenomenologie. Ta volala po epoché a návratu k věcem samým, což odporovalo marxismu a podobným ideologiím.
+
+Patočka byl aktivistou až do posledního dechu, i v chatrném zdravotním stavu se stal chartistou a podepsal Chartu 77, která byla spíše chartou filozofů, jelikož téměř třetina z těch, co podepsali, byla filozofů a většina z toho jeho studentů.
+
+Následný lov na chartisty nepřiměl Patočku svou filozofii odvolat. Spolu s Havlem a dalšími byl brán na výslechy, které nebraly ohledy na jeho zdravotní stav. Po jednom jedenáctihodinovém výslechu druhý den zkolaboval, načež následně po převozu do nemocnice zemřel.
+
+Paul Ricoeur se k tomu vyjádřil následovně: „Vytrvalé pronásledování tohoto muže, je důkazem, že v případě extrémního ponížení člověka se filozofický požadavek subjektivity stává jediným útočištěm občana před tyranem.“
+
+Podobnou myšlenku formuloval ve své eseji *Moc bezmocných* z roku 1978 Václav Havel, ta byla věnována památce Jana Patočky. „Lidé kooptováni mocí důmyslnými způsoby,“ což vysvětlil na obrazu zelináře, který od nadřízeného obdrží ceduli s heslem: „Proletáři všech zemí, spojte se!“ Ta má být umístěna do výlohy, což se také stane, i když zelináři na sdělení cedule nezáleží – je si vědom toho, že pokud to neudělá, bude nést následky. Zákazníkům na ní rovněž nesejde. Znamenalo to však, že nápis postrádá význam a je neškodný? Podle Havla je každý takový nápis znakem, který pomáhá budovat svět, z nějž potichu mizí nezávislé myšlení a osobní odpovědnost. Tyto nápisy jej pomáhají udržet při životě. Všude, po celé zemi, dokonce i v kancelářích vysokých funkcionářů, jsou tak lidé utlačováni systémem, a zároveň mu pomáhají. Sami sebe se přitom snaží přesvědčit o tom, že nezáleží na ničem z toho, co dělají. Vzniká tak obrovská masa špatné víry a banality, jež společnost prostupuje až k samému vrcholu. Všichni jsou podle Havla „zapleteni a zotročení.“
+
+V takovém okamžiku by měl přijít na scénu disident, který vzorec naruší. Ten vyžaduje návrat k životu „tady a teď“, to vede k tomu, že se nakonec dostaví „existenciální revoluce“: obnovení vztahu k „lidskému řádu“, a tedy i návrat k autentickému prožívání.
+
+Fenomenologické a existencialistické myšlenky byly hlavním pilířem Sametové revoluce a přispěly k vyměnění se z komunistického režimu. [11]
+
+### Závěr
+
+Postihnout všechny myšlenky obsažené v knize Sarah Bakewellové je takřka nemožné na takto malém prostoru. Hlubší zamyšlení si zaslouží každá strana, citát a uvedená díla mne zaujala a oslovila. Fenomenologie a existencionalismus se mi zdají velmi blízké, postřehy obou filozofií zůstávají neměnné a aktuální i v dnešním světě. Možná v podobné závažnosti jako v době, kdy tyto směry vznikaly.
+
+Žít znamená volit. Možnost špatné volby znamená úzkost. Ale právo mít tuto volbu je svoboda a základní lidské právo.
+
+ 
+
+### Použité zdroje
+
+[1] [11. 8. 2025] Husserl patří k nejproslulejším Židům z Česka: Český rozhlas, online dostupné z Husserl patří k nejproslulejším Židům z Česka | Témata 
+
+[2] [11. 8.] Fenomenologie: Sociologická encyklopedie, Sociologický ústav AV ČR, online dostupné z Fenomenologie – Sociologická encyklopedie
+
+[3] BAKEWELLOVÁ, Sarah: *V existencialisté kavárně*. Nakladatelství Host Brno, 2021.
+
+[4] BAKEWELLOVÁ, Sarah: *V existencialisté kavárně*. Nakladatelství Host Brno, 2021, str. 17-18
+
+[5] BAKEWELLOVÁ, Sarah: *V existencialisté kavárně*. Nakladatelství Host Brno, 2021.
+
+[6] BAKEWELLOVÁ, Sarah: *V existencialisté kavárně*. Nakladatelství Host Brno, 2021, str. 27-28 
+
+[7] [13. 8. 2025] Prokrastinace. Infoz.cz – slovník cizích slov. Online dostupné [zde](https://www.infoz.cz/prokrastinace/).
+
+[8] BAKEWELLOVÁ, Sarah: *V existencialisté kavárně*. Nakladatelství Host Brno, 2021, str. 235. [9] Tamtéž, str. 236.
+
+[10] BAKEWELLOVÁ, Sarah: *V existencialisté kavárně*. Nakladatelství Host Brno, 2021, str. 259.
+
+[11] BAKEWELLOVÁ, Sarah: *V existencialisté kavárně*. Nakladatelství Host Brno, 2021, str. 280-283.

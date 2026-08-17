@@ -1,0 +1,26 @@
+title: "Veronika Nunhardtová"
+description: "Portfolio, recenze knih a tipy pro psaní"
+url: "https://veronikanoolien.github.io"
+baseurl: ""
+markdown: kramdown
+kramdown:
+  input: GFM
+permalink: pretty
+timezone: Europe/Prague
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+collections:
+  posts:
+    output: true
+    permalink: /blog/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      category: "blog"
